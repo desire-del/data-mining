@@ -24,6 +24,10 @@ The dataset used for this project is the **Diabetes 130-US hospitals for years 1
 - **A1C Result**: A1C test results
 - **Medications**: Medication details (Metformin, Insulin, etc.)
 
+## Workflow Diagram
+
+![Workflow](doc/workflow.gif)
+
 ## Methodology
 
 ### Data Preprocessing
@@ -45,10 +49,9 @@ The final model was selected based on cross-validation performance and hyperpara
 
 ### Model Deployment
 The trained model was deployed as a web API using **FastAPI**, allowing for easy integration with a user interface built using **Streamlit**. The deployed model can predict diabetes readmissions based on input provided by healthcare professionals.
+![streamlit](doc/ui.png)
 
-## Workflow Diagram
 
-![Workflow](doc/workflow.gif)
 
 ## Future Work
 - **Model Improvement**: Exploring more advanced models such as deep learning models methods for better performance.
