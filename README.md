@@ -1,7 +1,10 @@
-![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
-![XGBoost](https://img.shields.io/badge/XGBoost-3.0.0-green)
-![MLflow](https://img.shields.io/badge/MLflow-2.21.3-orange)
-![Healthcare](https://img.shields.io/badge/domain-diabetes-informational)
+[![Python](https://img.shields.io/badge/Python-3.12%2B-blue)](https://www.python.org/downloads/release/python-3120/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-3.0.0-green)](https://xgboost.readthedocs.io/en/stable/)
+[![MLflow](https://img.shields.io/badge/MLflow-2.21.3-orange)](https://mlflow.org/docs/latest/index.html)
+[![Healthcare](https://img.shields.io/badge/domain-diabetes-informational)](https://www.cdc.gov/diabetes/)
+[![UCI Dataset](https://img.shields.io/badge/UCI%20Dataset-Diabetes%20130--US%20Hospitals-blueviolet)](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008)
+
+
 # Diabetes Readmission Prediction Project
 
 ## Overview
