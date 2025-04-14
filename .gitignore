@@ -354,3 +354,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+.idea/*
+mlartifacts/
+mlruns/
+notebooks/data/
+*.ipynb_checkpoints
+readmission-app/api/models/*
+.vscode/
