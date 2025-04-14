@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
+![XGBoost](https://img.shields.io/badge/XGBoost-3.0.0-green)
+![MLflow](https://img.shields.io/badge/MLflow-2.21.3-orange)
+![Healthcare](https://img.shields.io/badge/domain-diabetes-informational)
 # Diabetes Readmission Prediction Project
 
 ## Overview
